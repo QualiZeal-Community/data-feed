@@ -6,7 +6,7 @@
 
     <groupId>com.qualizeal.community</groupId>
     <artifactId>data-feed</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0.0</version>
 
     <name>data-feed</name>
     <description>Faker inspired data utility to make test data management more fun</description>
